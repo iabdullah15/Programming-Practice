@@ -33,3 +33,15 @@ range. We may omit the start or stop value. This will then be taken to stretch t
 '''
 
 print(l[2:])
+
+if 'two' in l:
+    print("TWO IN L")
+
+if 'six' not in l:
+    print("SIX NOT IN L")
+
+print(l.index("two"))
+print(l.count('two'))
+
+l3 = list(range(1,11))
+print(l3)
