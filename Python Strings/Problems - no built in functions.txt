@@ -1,0 +1,12 @@
+Reverse a String - Done
+Palindrome Check
+Count Vowels and Consonants
+Remove Duplicates from a String
+Find the First Non-Repeating Character
+Check if a String Contains Only Digits
+String Permutations
+Find All Substrings
+Caesar Cipher
+Remove Consecutive Duplicates
+Isomorphic Strings
+Valid Parentheses
