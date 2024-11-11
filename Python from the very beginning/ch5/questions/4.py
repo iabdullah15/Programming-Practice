@@ -13,3 +13,5 @@ def remove_spaces(s: str):
 
 s = '           this is a sentence which will get sorted by my function                      '
 print(remove_spaces(s))
+
+
